@@ -16,3 +16,7 @@ Should I switch to a Lorem Ipsum text or not?
 * drives a black car
 * strong
 * stupid
+
+As he said:
+> I’ve always been more interested
+> in the future than in the past.
