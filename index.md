@@ -20,3 +20,5 @@ Should I switch to a Lorem Ipsum text or not?
 As he said:
 > I’ve always been more interested
 > in the future than in the past.
+
+<img src="https://www.uni-koblenz-landau.de/de/service-it/digitalisierung/christian-schneider/christian-schneider/photo"/>
